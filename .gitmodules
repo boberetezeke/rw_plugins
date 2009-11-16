@@ -1,0 +1,15 @@
+[submodule "acts_with_metadata"]
+	path = acts_with_metadata
+	url = git://github.com/boberetezeke/acts_with_metadata.git
+[submodule "acts_as_database_object"]
+	path = acts_as_database_object
+	url = git://github.com/boberetezeke/acts_as_database_object.git
+[submodule "ruby_world"]
+	path = ruby_world
+	url = git://github.com/boberetezeke/ruby_world.git
+[submodule "rw_search_command_handler"]
+	path = rw_search_command_handler
+	url = git://github.com/boberetezeke/rw_search_command_handler.git
+[submodule "rw_ruby_command_handler"]
+	path = rw_ruby_command_handler
+	url = git://github.com/boberetezeke/rw_ruby_command_handler.git
